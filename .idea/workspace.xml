@@ -31,6 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\sionc\CodingProjects\eclipse Projects\P10 SJF Process Scheduler\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -43,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P07 Study Playlist" />
   </component>
   <component name="RunManager">
     <configuration name="ProcessScheduler" type="Application" factoryName="Application">
@@ -87,6 +95,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696910347" />
+    <state x="585" y="150" key="CommitChangelistDialog2" timestamp="1578697253156">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="585" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697253156" />
+    <state x="805" y="297" key="FileChooserDialogImpl" timestamp="1578697415678">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="297" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697415678" />
     <state width="2005" height="477" key="GridCell.Tab.0.bottom" timestamp="1578697103908">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -103,9 +119,13 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="477" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697220706">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697270217">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697220706" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697270217" />
+    <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578697438483">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697438483" />
   </component>
 </project>
