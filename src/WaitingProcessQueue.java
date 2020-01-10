@@ -25,6 +25,7 @@ import java.util.NoSuchElementException;
  * @author sionc
  *
  */
+// hello is this working
 public class WaitingProcessQueue implements WaitingQueueADT {
 
   private static final int INITIAL_CAPACITY = 20; // the initial capacity of this

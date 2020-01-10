@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Process Scheduler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/CustomProcess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/ProcessScheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/ProcessSchedulerTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingProcessQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingQueueADT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomProcess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProcessScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProcessSchedulerTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WaitingProcessQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WaitingQueueADT.java" afterDir="false" />
-    </list>
+    <list default="true" id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +66,26 @@
       <option name="presentableId" value="Default" />
       <updated>1578696828908</updated>
     </task>
+    <task id="LOCAL-00001" summary="Process Scheduler">
+      <created>1578697254226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578697254226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Process Scheduler">
+      <created>1578697444805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578697444805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Process Scheduler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Process Scheduler" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578696918619">
@@ -95,14 +96,18 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696910347" />
-    <state x="585" y="150" key="CommitChangelistDialog2" timestamp="1578697253156">
+    <state x="585" y="150" key="CommitChangelistDialog2" timestamp="1578697871825">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="585" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697253156" />
+    <state x="585" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697871825" />
     <state x="805" y="297" key="FileChooserDialogImpl" timestamp="1578697415678">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="297" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697415678" />
+    <state x="861" y="449" key="Github.ShareDialog" timestamp="1578697723269">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="861" y="449" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697723269" />
     <state width="2005" height="477" key="GridCell.Tab.0.bottom" timestamp="1578697103908">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -119,10 +124,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="477" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697270217">
+    <state x="695" y="255" key="NewModule_or_Project.wizard" timestamp="1578697667076">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697270217" />
+    <state x="695" y="255" key="NewModule_or_Project.wizard/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697667076" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697599302">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697599302" />
     <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578697438483">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
