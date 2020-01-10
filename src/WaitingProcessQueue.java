@@ -25,7 +25,7 @@ import java.util.NoSuchElementException;
  * @author sionc
  *
  */
-// hello is this working
+
 public class WaitingProcessQueue implements WaitingQueueADT {
 
   private static final int INITIAL_CAPACITY = 20; // the initial capacity of this
@@ -45,7 +45,7 @@ public class WaitingProcessQueue implements WaitingQueueADT {
   @Override
   /**
    * inserts a newObject in this waiting queue.
-   * 
+   *
    * @param newObject to insert in this waiting queue
    */
   public void insert(Comparable newObject) {
