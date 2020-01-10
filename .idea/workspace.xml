@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Process Scheduler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/CustomProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/ProcessScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/ProcessSchedulerTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingProcessQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingQueueADT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProcessScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProcessSchedulerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WaitingProcessQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WaitingQueueADT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WDv9UCAphe1k9N7dGT75wPpcO9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ProcessScheduler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ProcessScheduler" />
+      <module name="Process Scheduler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="" />
+      <created>1578696828908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578696828908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578696918619">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696918619" />
+    <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578696910347">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696910347" />
+    <state width="2005" height="477" key="GridCell.Tab.0.bottom" timestamp="1578697103908">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="477" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
+    <state width="2005" height="477" key="GridCell.Tab.0.center" timestamp="1578697103907">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="477" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103907" />
+    <state width="2005" height="477" key="GridCell.Tab.0.left" timestamp="1578697103907">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="477" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103907" />
+    <state width="2005" height="477" key="GridCell.Tab.0.right" timestamp="1578697103908">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="477" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697220706">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697220706" />
+  </component>
+</project>
