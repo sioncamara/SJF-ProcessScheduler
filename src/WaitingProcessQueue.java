@@ -192,13 +192,7 @@ public class WaitingProcessQueue implements WaitingQueueADT {
    * @return true of node has child
    */
   private Boolean hasChild(int index) {
-
-    CustomProcess lC = data[2 * index + 1]; // left child
-
-    if (lC == null) { // check if left child exist
-      return false;
-    }
-    return true; // left child exist so is not a leaf
+    return 2 * index + 1 < size; // checks if left child exist
   }
 
   /**
@@ -207,12 +201,7 @@ public class WaitingProcessQueue implements WaitingQueueADT {
    * @return true if node has a right child
    */
   private Boolean hasRTChild(int index) {
-
-    CustomProcess rC = data[2 * index + 2]; // right child
-    if (rC == null) { // child does not exist
-      return false;
-    }
-    return true; // right child exist
+    return 2 * index + 2 < size; // check if right child exist
   }
 
   @Override

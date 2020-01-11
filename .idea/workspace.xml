@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="" />
+    <list default="true" id="e5664e7b-a781-4782-a493-a45ae3f1567b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingProcessQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Process Scheduler/WaitingProcessQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WaitingProcessQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WaitingProcessQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P07 Study Playlist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RunManager">
     <configuration name="ProcessScheduler" type="Application" factoryName="Application">
@@ -80,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578697444805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Process Scheduler">
+      <created>1578697925411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578697925411</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Process Scheduler">
+      <created>1578697971848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578697971848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -88,53 +106,63 @@
     <option name="LAST_COMMIT_MESSAGE" value="Process Scheduler" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578696918619">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="352" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578772446124">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state x="352" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1578772446124" />
     <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696918619" />
     <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578696910347">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="754" y="340" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578696910347" />
-    <state x="585" y="150" key="CommitChangelistDialog2" timestamp="1578697924646">
+    <state x="585" y="150" key="CommitChangelistDialog2" timestamp="1578697971084">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="585" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697924646" />
-    <state x="805" y="297" key="FileChooserDialogImpl" timestamp="1578697415678">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="585" y="150" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697971084" />
+    <state x="591" y="257" key="FileChooserDialogImpl" timestamp="1578772585887">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state x="591" y="257" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1578772585887" />
     <state x="805" y="297" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697415678" />
     <state x="861" y="449" key="Github.ShareDialog" timestamp="1578697723269">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="861" y="449" key="Github.ShareDialog/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697723269" />
-    <state width="2005" height="477" key="GridCell.Tab.0.bottom" timestamp="1578697103908">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1461" height="402" key="GridCell.Tab.0.bottom" timestamp="1578772601849">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1461" height="402" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1578772601849" />
     <state width="2005" height="477" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
-    <state width="2005" height="477" key="GridCell.Tab.0.center" timestamp="1578697103907">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1461" height="402" key="GridCell.Tab.0.center" timestamp="1578772601848">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1461" height="402" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1578772601848" />
     <state width="2005" height="477" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103907" />
-    <state width="2005" height="477" key="GridCell.Tab.0.left" timestamp="1578697103907">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1461" height="402" key="GridCell.Tab.0.left" timestamp="1578772601847">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1461" height="402" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1578772601847" />
     <state width="2005" height="477" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103907" />
-    <state width="2005" height="477" key="GridCell.Tab.0.right" timestamp="1578697103908">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="1461" height="402" key="GridCell.Tab.0.right" timestamp="1578772601848">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1461" height="402" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1578772601848" />
     <state width="2005" height="477" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697103908" />
     <state x="695" y="255" key="NewModule_or_Project.wizard" timestamp="1578697667076">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="695" y="255" key="NewModule_or_Project.wizard/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697667076" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697939467">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1578697978784">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697939467" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697978784" />
     <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578697438483">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="834" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1578697438483" />
+    <state x="409" y="222" key="run.anything.popup" timestamp="1578772581748">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="409" y="222" key="run.anything.popup/0.0.1504.963@0.0.1504.963" timestamp="1578772581748" />
   </component>
 </project>
